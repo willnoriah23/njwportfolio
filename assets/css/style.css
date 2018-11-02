@@ -1,0 +1,110 @@
+body {
+	background-color: #2C3E50;
+	color: #fff;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+
+main {
+    flex: 1 0 auto;
+}
+
+.introDiv {
+	margin: 50px;
+	font-family: 'Karma', serif;
+}
+
+
+h1 {
+	font-size: 60px;
+}
+
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-family: 'Karma', serif;
+	color: black;
+	font-size: 18px;
+	font-weight: bold
+}
+
+
+h4 {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Karma', serif;
+}
+
+h5 {
+	font-size: 15px;
+	font-family: 'Karma', serif;
+	line-height: 1.6;
+}
+
+h6 {
+	font-size: 18px;
+}
+
+
+
+.waves-effect {
+	font-family: 'Karma', serif;
+	font-size: 50px
+	font: #000000;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.btns {
+	justify-content: center;
+	background-color: #566573;
+	height: 1300px;
+	margin-top: 100px
+}
+
+.stuffDiv {
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: left;
+}
+
+p {
+	position: static;
+	color: #2C3E50;
+}
+
+/*.footer {
+	background-color: #808B96;
+	height: 150px;
+}*/
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.card-content {
+	font-family: 'Karma', serif;
+	margin-top: 30px;
+}
+
+.card-action {
+	font-size: 18px;
+	font-family: 'Karma', serif;
+	font-weight: bold;	
+}
+
+.icons {
+	justify-content: center;
+}
